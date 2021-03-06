@@ -49,12 +49,9 @@ header {
     align-items: center;
 }
 
-.transition-navigation li {
+.transition-navigation a {
+    display: block;
     margin-right: 10px;
-}
-
-.transition-navigation li:last-child {
-    margin-right: 0px;
 }
 
 .drop-down-list {
